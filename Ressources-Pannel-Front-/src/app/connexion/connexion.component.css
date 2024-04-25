@@ -1,0 +1,47 @@
+.formulaire{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 150px;
+}
+
+.bg_form{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    width: 735px;
+    height: 402px;
+
+}
+
+.form-connexion img{
+    width: 120px;
+    height: 150px;
+}
+
+.logo{
+margin-left: 280px;
+
+}
+.A{
+        display: flex;
+    justify-content: center;
+}
+
+.B{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.B a{
+    text-decoration: none;
+    color: black;
+    margin-right: 15px;
+    line-height: 2rem;
+    font-size: 0.8rem;
+}
+
+.B button{
+margin-bottom: 20px;
+}
+
